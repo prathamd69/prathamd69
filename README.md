@@ -4,9 +4,10 @@
 
 I’m a passionate developer specializing in **Machine Learning** and **Human-Computer Interaction**. I love exploring how intelligent systems can enhance user experiences. My key interests and skills include:
 
-- **Programming:** Python
-- **Libraries:** Tensorflow/Keras, scikit-learn, numpy, Flask
-- **Core Areas:** Machine Learning, Deep Learning Mathematics
+- **Programming:** Python, C
+- **Libraries:** Tensorflow/Keras, scikit-learn, Flask
+- **Tools:** DVC, MLFlow
+- **Core Areas:** Machine Learning, Deep Learning Mathematics, MLOps
 - **Hobbies:** Math, Physics, Football, Music
 
 I’m always open to collaborating on impactful projects, discussing tech, or learning something new! Feel free to check out my repositories, contribute, or just reach out for a chat.
