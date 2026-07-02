@@ -20,9 +20,6 @@ I’m a passionate developer focusing on Machine Learning and Human–Computer I
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamd69&theme=tokyonightish" />
 </p>
 
-
-> Note: These cards rely on third-party services (github-readme-stats, streak-stats, activity-graph). If a card doesn't render immediately, try again after a moment or let me know and I can swap cards.
-
 ---
 
 ## Selected Projects
