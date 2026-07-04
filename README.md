@@ -38,6 +38,8 @@ I’m a passionate developer focusing on Machine Learning and Human–Computer I
 - Areas: Machine Learning, Deep Learning Math, HCI
 
 ## Contact / Let’s connect
+- [View My Resume](resume.pdf)
+
 - LinkedIn: https://www.linkedin.com/in/prathamxdwivedi/  
 - Email: prathamd2710@gmail.com  
 
